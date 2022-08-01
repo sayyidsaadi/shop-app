@@ -1,0 +1,28 @@
+.shop_Table{
+    vertical-align: middle;
+    text-align: center;
+}
+.shop_Table> tr> td> img{
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 4px;
+}
+.single_product{
+    text-align: center;
+}
+.single_product img{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    object-fit: cover;
+}
+i{
+    pointer-events: none;
+}
+
+tbody tr td img {
+    width: 60px;
+    height: 60px;
+    border-radius: 10%;
+}
